@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\TemaCriptografie\Merkle-Hellman\Merkle-Hellman\bin\Debug\Merkle-Hellman.exe.config
+C:\Users\Admin\Desktop\TemaCriptografie\Merkle-Hellman\Merkle-Hellman\bin\Debug\Merkle-Hellman.exe
+C:\Users\Admin\Desktop\TemaCriptografie\Merkle-Hellman\Merkle-Hellman\bin\Debug\Merkle-Hellman.pdb
+C:\Users\Admin\Desktop\TemaCriptografie\Merkle-Hellman\Merkle-Hellman\obj\Debug\Merkle-Hellman.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TemaCriptografie\Merkle-Hellman\Merkle-Hellman\obj\Debug\Merkle-Hellman.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TemaCriptografie\Merkle-Hellman\Merkle-Hellman\obj\Debug\Merkle-Hellman.exe
+C:\Users\Admin\Desktop\TemaCriptografie\Merkle-Hellman\Merkle-Hellman\obj\Debug\Merkle-Hellman.pdb
